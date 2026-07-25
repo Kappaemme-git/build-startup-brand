@@ -32,7 +32,7 @@ Required:
 
 - `startup`: display name
 - `title`: report title
-- `language`: report language
+- `language`: always `en`
 - `status`: `territories`, `provisional`, or `final`
 - `generated_at`: ISO date
 
