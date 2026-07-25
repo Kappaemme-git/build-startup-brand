@@ -1,0 +1,44 @@
+{
+  "name": "build-startup-brand",
+  "version": "0.1.0",
+  "description": "Install the Build Startup Brand skill for Codex and other compatible agents.",
+  "type": "module",
+  "bin": {
+    "build-startup-brand": "./bin/build-startup-brand.mjs"
+  },
+  "scripts": {
+    "test": "node tests/report.test.mjs",
+    "report:example": "node scripts/generate_report.mjs tests/fixtures/sample-brand.json outputs/sample-brand-identity.html"
+  },
+  "files": [
+    "SKILL.md",
+    "agents",
+    "bin",
+    "references",
+    "scripts",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kappaemme-git/build-startup-brand.git"
+  },
+  "homepage": "https://github.com/Kappaemme-git/build-startup-brand",
+  "bugs": {
+    "url": "https://github.com/Kappaemme-git/build-startup-brand/issues"
+  },
+  "keywords": [
+    "codex",
+    "agent-skill",
+    "brand-identity",
+    "startup",
+    "branding"
+  ],
+  "author": "Francesco Mistero",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

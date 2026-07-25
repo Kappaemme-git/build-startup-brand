@@ -1,0 +1,4 @@
+interface:
+  display_name: "Startup Brand Identity"
+  short_description: "Build a complete, distinctive startup brand system"
+  default_prompt: "Use $build-startup-brand to turn my startup into a complete brand identity and an openable visual report."

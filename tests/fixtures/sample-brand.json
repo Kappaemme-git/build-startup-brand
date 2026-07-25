@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "startup": "Northstar",
+    "title": "Brand Identity",
+    "subtitle": "A calmer operating system for early teams",
+    "language": "en",
+    "status": "final",
+    "prepared_for": "Northstar founding team",
+    "generated_at": "2026-07-25"
+  },
+  "strategy": {
+    "product": "A decision log that turns scattered startup discussions into a visible operating memory.",
+    "audience": "Founding teams of three to fifteen people making fast product decisions across chat, calls, and documents.",
+    "trigger": "Repeated debates and unclear ownership start slowing the team down.",
+    "problem": "Important decisions disappear into chat history and have to be reconstructed later.",
+    "category": "Team decision memory",
+    "alternatives": "Chat search, meeting notes, project tools, and individual memory.",
+    "distinctive_value": "Northstar captures the decision, rationale, owner, and revisit date in one lightweight record.",
+    "proof_points": [
+      "Structured decision records",
+      "Searchable rationale",
+      "Automatic revisit reminders"
+    ],
+    "positioning": "Northstar gives small startup teams a shared memory for decisions without turning every conversation into process.",
+    "salient_idea": "Move fast without forgetting why.",
+    "promise": "Every important decision remains understandable and actionable.",
+    "personality": ["Clear", "Calm", "Decisive"],
+    "evidence_notes": ["Sample content used to validate the report generator."]
+  },
+  "territories": [
+    {
+      "name": "Visible Trail",
+      "thesis": "Every decision leaves a useful trail the team can follow.",
+      "audience_response": "We can move quickly without losing context.",
+      "metaphor": "A path marked by deliberate waypoints.",
+      "tagline": "Leave a clear trail.",
+      "tagline_alternates": ["Know how you got here."],
+      "voice": ["Direct", "Grounded", "Guiding"],
+      "voice_sample": "Capture the call. Keep the reason.",
+      "symbol": "Three waypoints connected by one directional cut.",
+      "palette": [
+        {"name": "Trail Lime", "hex": "#DDFE68", "role": "Primary"},
+        {"name": "Night Ink", "hex": "#17181B", "role": "Text"},
+        {"name": "Field", "hex": "#F2F0E8", "role": "Background"}
+      ],
+      "typography": {
+        "display": "A sturdy grotesk with compact headlines",
+        "body": "A highly readable neutral sans serif"
+      },
+      "application": "A product timeline where each decision appears as a visible waypoint.",
+      "risk": "Could feel like project management if the decision focus is not explicit.",
+      "scores": {
+        "strategic_fit": 9,
+        "audience_relevance": 9,
+        "distinctiveness": 8,
+        "credibility": 9,
+        "memorability": 8,
+        "extensibility": 9,
+        "execution_resilience": 9
+      }
+    },
+    {
+      "name": "Quiet Signal",
+      "thesis": "Separate durable decisions from the noise surrounding them.",
+      "audience_response": "This gives our team clarity without more meetings.",
+      "metaphor": "A crisp signal emerging from soft interference.",
+      "tagline": "Signal, not noise.",
+      "tagline_alternates": ["Keep what matters."],
+      "voice": ["Calm", "Precise", "Selective"],
+      "voice_sample": "Keep the decision. Let the chatter go.",
+      "symbol": "One sharp vertical signal crossing three fading horizontal bands.",
+      "palette": [
+        {"name": "Signal Violet", "hex": "#8F7CFF", "role": "Primary"},
+        {"name": "Deep Space", "hex": "#15131C", "role": "Text"},
+        {"name": "Mist", "hex": "#EEEAF8", "role": "Background"}
+      ],
+      "typography": {
+        "display": "A precise neo-grotesk with open counters",
+        "body": "A restrained interface sans serif"
+      },
+      "application": "A landing hero where one decision card stays sharp while surrounding messages blur.",
+      "risk": "The signal metaphor is common and needs a distinctive execution.",
+      "scores": {
+        "strategic_fit": 9,
+        "audience_relevance": 8,
+        "distinctiveness": 7,
+        "credibility": 9,
+        "memorability": 8,
+        "extensibility": 8,
+        "execution_resilience": 8
+      }
+    },
+    {
+      "name": "Decision Gravity",
+      "thesis": "Important decisions should organize the work around them.",
+      "audience_response": "Our priorities and ownership will stop drifting.",
+      "metaphor": "A central force pulling related actions into orbit.",
+      "tagline": "Make decisions hold.",
+      "tagline_alternates": ["Give decisions gravity."],
+      "voice": ["Confident", "Compact", "Structural"],
+      "voice_sample": "One decision. Clear ownership. Less drift.",
+      "symbol": "A solid core with two offset orbital brackets.",
+      "palette": [
+        {"name": "Core Coral", "hex": "#FF725E", "role": "Primary"},
+        {"name": "Carbon", "hex": "#181717", "role": "Text"},
+        {"name": "Warm Paper", "hex": "#F7F0E8", "role": "Background"}
+      ],
+      "typography": {
+        "display": "A dense geometric sans serif",
+        "body": "A warm humanist sans serif"
+      },
+      "application": "A pitch cover with one decision at the center and actions orbiting it.",
+      "risk": "The gravity language may sound heavy for a lightweight tool.",
+      "scores": {
+        "strategic_fit": 8,
+        "audience_relevance": 8,
+        "distinctiveness": 9,
+        "credibility": 8,
+        "memorability": 9,
+        "extensibility": 8,
+        "execution_resilience": 8
+      }
+    }
+  ],
+  "recommendation": {
+    "territory": "Visible Trail",
+    "reason": "It connects the product mechanism to a clear, flexible visual behavior and remains understandable without explanation.",
+    "tradeoff": "It is less provocative than Decision Gravity, so copy and motion must preserve energy.",
+    "selection_status": "Selected for sample validation"
+  },
+  "brand_system": {
+    "selected_territory": "Visible Trail",
+    "tagline": "Leave a clear trail.",
+    "one_liner": "A shared memory for the decisions that move your startup.",
+    "value_proposition": "Capture what was decided, why, who owns it, and when to revisit it.",
+    "cta": "Record a decision",
+    "logo_concept": "Three rounded waypoints connected by a single forward path; the final point opens into an arrow-shaped cut.",
+    "palette": [
+      {"name": "Trail Lime", "hex": "#DDFE68", "role": "Primary"},
+      {"name": "Night Ink", "hex": "#17181B", "role": "Text"},
+      {"name": "Field", "hex": "#F2F0E8", "role": "Background"}
+    ],
+    "typography": {
+      "display": "Compact grotesk, semibold to bold",
+      "body": "Neutral interface sans serif, regular to medium"
+    },
+    "voice_traits": [
+      {
+        "trait": "Direct, not abrupt",
+        "meaning": "Lead with the decision and remove ceremony.",
+        "do": "Record the call while the reason is fresh.",
+        "dont": "Leverage our framework to optimize decision capture."
+      },
+      {
+        "trait": "Calm, not passive",
+        "meaning": "Reduce anxiety while keeping momentum.",
+        "do": "You can revisit this in two weeks.",
+        "dont": "Don't worry—we'll take care of everything."
+      },
+      {
+        "trait": "Guiding, not controlling",
+        "meaning": "Make the next action visible without adding bureaucracy.",
+        "do": "Name an owner and keep moving.",
+        "dont": "Complete all required governance fields."
+      }
+    ],
+    "preferred_words": ["decision", "reason", "owner", "trail", "revisit"],
+    "avoided_words": ["governance", "synergy", "revolutionary"],
+    "message_pillars": [
+      {
+        "title": "Remember the why",
+        "message": "Keep rationale attached to every important decision.",
+        "proof": "Searchable structured rationale."
+      },
+      {
+        "title": "Keep ownership visible",
+        "message": "Turn decisions into accountable next moves.",
+        "proof": "Named owner and status."
+      },
+      {
+        "title": "Revisit deliberately",
+        "message": "Know which assumptions deserve another look.",
+        "proof": "Scheduled revisit reminders."
+      }
+    ],
+    "image_direction": "Top-down working scenes with one luminous path connecting decision artifacts; natural texture, quiet light, no staged handshake imagery.",
+    "layout_principles": ["One clear path per composition", "Waypoints repeat as navigation", "Generous field around decisions"],
+    "applications": [
+      {
+        "name": "Landing hero",
+        "headline": "Move fast without forgetting why.",
+        "direction": "A single trail connects a discussion, decision, owner, and revisit date."
+      },
+      {
+        "name": "Product onboarding",
+        "headline": "Leave your first trail.",
+        "direction": "Four short steps mirror the decision record."
+      },
+      {
+        "name": "Pitch cover",
+        "headline": "The shared memory for startup decisions.",
+        "direction": "One bold waypoint interrupts a quiet field."
+      },
+      {
+        "name": "Favicon",
+        "headline": "Three-point trail",
+        "direction": "Use the one-color waypoint silhouette with no lettering."
+      }
+    ],
+    "dos": ["Use the trail to explain sequence", "Keep headlines compact", "Let lime signal a decision"],
+    "donts": ["Turn every border into a path", "Use lime for long body text", "Add outdoor adventure clichés"]
+  },
+  "validation": {
+    "strengths": ["Clear connection between product behavior and identity", "Flexible visual motif"],
+    "assumptions": ["Founding teams describe lost rationale as a serious problem"],
+    "risks": ["Trail imagery may imply project management"],
+    "next_tests": ["Five-second landing-page test", "Favicon recognition test", "Competitor shuffle"],
+    "legal_note": "The sample name, tagline, and symbol have not received trademark clearance."
+  },
+  "sources": []
+}
