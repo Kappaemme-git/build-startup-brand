@@ -7,7 +7,12 @@ description: Turn a startup idea, product, URL, pitch, or existing visual identi
 
 Turn strategy into three differentiated creative territories, then develop the selected territory into a usable brand system. Deliver the work in conversation and in a standalone HTML report the user can open in Codex.
 
-Match the user's language throughout the process and report. Keep familiar brand terms in English when they are clearer.
+## Language
+
+- Always conduct the conversation, discovery questions, analysis, recommendations, creative territories, brand copy, and final report in English.
+- Use English even when the user writes in another language or supplies non-English material.
+- Translate relevant input into English before developing the brand. Preserve proper nouns, registered product names, URLs, and source quotations when accuracy requires it.
+- Set `meta.language` to `en` in every report JSON.
 
 ## Read the right references
 
@@ -84,6 +89,7 @@ node scripts/generate_report.mjs <input.json> <output.html>
 ## Enforce the quality bar
 
 - Build for a startup, not for the founder's personal brand.
+- Produce every user-facing deliverable in English.
 - Prefer one ownable idea over a collection of generic values.
 - Treat the current workaround and doing nothing as competitors.
 - Never invent customer evidence, traction, market facts, testimonials, or legal clearance.

@@ -25,6 +25,7 @@ function validate(value) {
   if (!value?.meta?.startup) errors.push("meta.startup is required");
   if (!value?.meta?.title) errors.push("meta.title is required");
   if (!value?.meta?.status) errors.push("meta.status is required");
+  if (value?.meta?.language !== "en") errors.push("meta.language must be en");
   if (!value?.strategy || typeof value.strategy !== "object") {
     errors.push("strategy is required");
   }
@@ -67,7 +68,7 @@ function renderReport(data) {
   const paper = "#F4F1EA";
 
   return `<!doctype html>
-<html lang="${esc(meta.language || "en")}">
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">

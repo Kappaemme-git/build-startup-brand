@@ -1,6 +1,6 @@
 {
   "name": "build-startup-brand",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Install the Build Startup Brand skill for Codex and other compatible agents.",
   "type": "module",
   "bin": {
