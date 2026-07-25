@@ -1,10 +1,10 @@
 {
   "name": "build-startup-brand",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Install the Build Startup Brand skill for Codex and other compatible agents.",
   "type": "module",
   "bin": {
-    "build-startup-brand": "./bin/build-startup-brand.mjs"
+    "build-startup-brand": "bin/build-startup-brand.js"
   },
   "scripts": {
     "test": "node tests/report.test.mjs",
